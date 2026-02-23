@@ -1,0 +1,16 @@
+Ошибка в Cat Warrior Adventure - 2026-02-23 20:04:37.563584
+============================================================
+Traceback (most recent call last):
+  File "C:\Users\LEGION\Desktop\sasasa\cat_warrior_adventure.py", line 777, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\LEGION\Desktop\sasasa\cat_warrior_adventure.py", line 771, in main
+    game.draw()
+    ~~~~~~~~~^^
+  File "C:\Users\LEGION\Desktop\sasasa\cat_warrior_adventure.py", line 599, in draw
+    self.draw_weapons_menu(game_surface)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\LEGION\Desktop\sasasa\cat_warrior_adventure.py", line 654, in draw_weapons_menu
+    desc_text = self.font_small.render(weapon_data['description'], True, weapon_data.get('color', WHITE))
+                                       ~~~~~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'description'

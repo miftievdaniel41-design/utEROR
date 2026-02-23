@@ -1,0 +1,18 @@
+{
+    "name": "🚀 Ракетница",
+    "description": "Мощные ракеты с взрывом",
+    "damage": 100,
+    "speed": 8,
+    "color": [
+        255,
+        100,
+        0
+    ],
+    "cooldown": 40,
+    "bullet_size": [
+        25,
+        40
+    ],
+    "explosion_radius": 80,
+    "unlock_level": 1
+}

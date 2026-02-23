@@ -1,0 +1,9 @@
+{
+    "name": "⚡ ЭФФЕКТЫ СУПЕР-ПУШКИ",
+    "description": "Визуальные эффекты для супер-пушки - взрывы и молнии",
+    "explosion_radius": 100,
+    "screen_shake": true,
+    "lightning_effect": true,
+    "sound_effect": "super_boom",
+    "particle_count": 50
+}

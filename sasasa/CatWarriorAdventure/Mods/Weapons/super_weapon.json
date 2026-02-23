@@ -1,0 +1,21 @@
+{
+    "name": "💥 СУПЕР-ПУШКА",
+    "description": "Уничтожает ВСЕХ врагов на экране! Урон 10000",
+    "damage": 10000,
+    "speed": 20,
+    "color": [
+        255,
+        0,
+        255
+    ],
+    "cooldown": 120,
+    "bullet_size": [
+        40,
+        60
+    ],
+    "bullet_count": 1,
+    "area_effect": true,
+    "screen_shake": true,
+    "explosion_radius": 200,
+    "unlock_level": 1
+}
